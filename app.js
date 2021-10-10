@@ -1,16 +1,16 @@
 // Imprimir mensagem
 
-// console.log("Hello World")
-// alert("Hello World")
+console.log("Hello World")
+alert("Hello World")
 
 // Variável
 
 // Variável não pode ter caracteres especiais a não ser "_", não pode começar com número, não pode ser uma palavra reservada e não pode ter espaço
-// let nomeDaVariavel = "valor da variável";
+let nomeDaVariavel = "valor da variável";
 
-// console.log(nomeDaVariavel)
+console.log(nomeDaVariavel)
 
-// nomeDaVariavel = "João"
+nomeDaVariavel = "João"
 
 /*
     int = número inteiro,
@@ -19,7 +19,7 @@
     float = número com ponto flutuante
 */
 
-// console.log(nomeDaVariavel)
+console.log(nomeDaVariavel)
 
 // Formas de declarar variável: const, let e var
 // var = variável para todo o código
@@ -30,7 +30,7 @@
 
 var precoDoPao = 5.89
 
-// console.log("Preço do pão: R$" + precoDoPao.toFixed(2))
+console.log("Preço do pão: R$" + precoDoPao.toFixed(2))
 
 // Condicionais
 
@@ -38,7 +38,7 @@ var precoDoPao = 5.89
 // == Com o mesmo valor
 // === Idêntico, precisa ser do mesmo tipo
 
-// console.log(typeof(precoDoPao))
+console.log(typeof(precoDoPao))
 
 if(precoDoPao === "5.89"){
 
